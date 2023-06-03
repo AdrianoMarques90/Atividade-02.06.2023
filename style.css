@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    margin: 300px;
+    background-color: rgb(202, 243, 243);
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+}
+
+img {
+    border-radius: 50px;
+}
+
+h {
+    font-size: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: rgb(128, 3, 3);
+}
+
+h {
+    font-style: italic;
+    text-align: left;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+}
+
+h3 {
+    text-align: left;
+    color:rgb(1, 51, 1);
+}
+
+ul {
+    text-align: left;
+    font-size: 20px;
+    font-style: italic;
+}
+
+ol {
+    text-align: left;
+    font-size: 20px;
+    font-style: italic;
+}
+
+p {
+    font-style: italic;
+
+}
+h1{
+    color: navy;
+}
